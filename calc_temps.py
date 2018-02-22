@@ -12,4 +12,6 @@ elif ini_conv == 2:
     
 elif ini_conv == 3:
     temp = input('Digite a temperatura em ºK:\n')
+    
+#Teste
 
